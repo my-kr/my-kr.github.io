@@ -1,0 +1,31 @@
+input {
+font-size: medium;
+display: grid;
+margin-top: 25px;
+border-radius: 20px;
+}
+.search{
+    Position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+}
+.drop{
+    Position:absolute;
+    top:45%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    width: 500px;
+    height: 30px;
+}
+.warp{
+    font-size: medium;
+    display: grid;
+    margin-top: 45px;
+    border-radius: 10px;
+    width: 500px;
+}
+body{
+    background-image: url(131417.JPG);
+    background-size: cover;
+}
